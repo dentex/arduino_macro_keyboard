@@ -3,9 +3,13 @@
 DIY *Macro Keyboard* using an Arduino Pro Micro, 3D printed parts and some other hardware modules.
 
 
+![cover image](/images/readme_cover.png)
+
+
 ### Arduino sketch
 
-Find it at [./sketch/pro-micro_dentex_macro-keyboard.ino](/sketch/pro-micro_dentex_macro-keyboard.ino)
+Find it at [./sketch/pro-micro_dentex_macro-keyboard.ino](/sketch/pro-micro_dentex_macro-keyboard.ino).
+
 Libraries used:
 - HID-Project
 - EEPROM

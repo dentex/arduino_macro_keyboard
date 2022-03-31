@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "condition_variable": "cpp",
+        "cstddef": "cpp",
+        "functional": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "*.ipp": "cpp"
+    }
+}

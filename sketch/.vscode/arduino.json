@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "pro-micro_dentex_macro-keyboard.ino",
+    "output": "../../build_output",
+    "port": "/dev/ttyACM0"
+}

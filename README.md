@@ -8,6 +8,7 @@ DIY *Macro Keyboard* using an Arduino Pro Micro, 3D printed parts and some other
 ![pro-micro](/images/pro-micro.png)
 
 
+
 ## Features
 
 - Arduino Pro Micro as HID device
@@ -17,6 +18,7 @@ DIY *Macro Keyboard* using an Arduino Pro Micro, 3D printed parts and some other
 - A ws2812b LED module lights-up the pad upon profile changes and when the touch sensor is touched
 - OLED display to show usage info
 - Menu Button (placed below the OLED display) with key-test playground
+
 
 
 ## Arduino sketch
@@ -31,9 +33,11 @@ Libraries used:
 - Keypad
 
 
+
 ## 3D printed parts
 
 Printable STL files are available in the [relative folder](/STL). The [./FreeCAD](/FreeCAD) folder contains the 3D project (the main file to be loaded in FreeCAD is `#_MACRO-KEYBOARD_v12.FCStd`)
+
 
 
 ## Hardware
@@ -51,6 +55,7 @@ Printable STL files are available in the [relative folder](/STL). The [./FreeCAD
 - 1 TTP223 Capacitive Touch Switch Module(i.e.: https://www.aliexpress.com/item/32869836574.html)
 
 
+
 ## Wiring
 
-A partial connection diagram is present into the [./images](/images) folder. It covers the keyboard and the rotary encoder. For the other connections, rely on the Arduino sketch and `./images/pro-micro-pinout.jpg`.
+A partial connection diagram is present into the [./images](/images) folder. It covers the keyboard and the rotary encoder. For the other connections, rely on the Arduino sketch and the [arduino pinout](/images/pro-micro-pinout.jpg).
